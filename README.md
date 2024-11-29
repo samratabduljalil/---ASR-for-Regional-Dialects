@@ -1,33 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fine-Tuning Whisper for Bangladeshi Dialects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        ul {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        code {
-            display: block;
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
     <h1>Fine-Tuning Whisper for Bangladeshi Dialects</h1>
     <p>
         This project explores fine-tuning OpenAI's Whisper model to improve speech recognition for Bangladeshi regional dialects.
@@ -89,7 +60,6 @@ domain_weights = {<br>
     'Tangail': 0.083,<br>
 }
     </code>
-</body>
-</html>
+
 
 
